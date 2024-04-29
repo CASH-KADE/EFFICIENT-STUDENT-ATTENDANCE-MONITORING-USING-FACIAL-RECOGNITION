@@ -1,0 +1,13 @@
+RClik
+Open Terminal
+python -m flask run
+Open the give local host in web (eg: "http://127.0.0.1:5000")
+start doing!
+
+
+To install modules:
+~Flask Error
+pip install flask
+
+~CV2 Error
+pip install opencv-python
